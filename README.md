@@ -1,8 +1,16 @@
-# React + Vite
+># **Repo Introdoction**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+This project is a simple and practical web application for managing contacts, built using the React library and Tailwind CSS framework. This application allows you to easily manage your contacts and view their information.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+># **Demo**
+
+[**Click here to see demo**](https://mani-jebraeily.github.io/contact-list/)
+
+**`Desktop design`**
+
+![demo](./src/assets/demo.png)
+
+
+
